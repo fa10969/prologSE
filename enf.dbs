@@ -1,0 +1,4 @@
+:- dynamic tiene/2.
+
+tiene(asma, [fiebre, tos]).
+
